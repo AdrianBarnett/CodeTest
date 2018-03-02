@@ -1,0 +1,3 @@
+
+
+void getString(char *str);

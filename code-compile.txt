@@ -1,0 +1,15 @@
+
+
+
+
+g++ add.c -g		GIMODE
+gdb a.out —tul		DEBUG
+
+
+b 30			ADD BREAK POINT LINE 30
+break main		add break point at main()
+
+run
+
+
+n			TO MOVE TO NEXT LINE.
